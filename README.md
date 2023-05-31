@@ -31,7 +31,7 @@
 Во случајот на условот if (user==null || user.getPassword()==null || user.getEmail()==null), имаме три услови кои можат да имаат вредности true или false. Со тоа, можеме да напишеме следниве тест случаи:
 
 
-![image](https://github.com/BlagicaAleksoska/SI_2023_lab2_163022/assets/129745708/8f757d1f-3558-4684-a7b8-5013c0d1fe58)
+![image](https://github.com/BlagicaAleksoska/SI_2023_lab2_163022/assets/129745708/929f3d7b-cc14-4a77-9d24-06669210608d)
 
 
 
