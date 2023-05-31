@@ -11,8 +11,7 @@
 Фотографија од control flow graph-ot 
 
 
-![image](https://github.com/BlagicaAleksoska/SI_2023_lab2_163022/assets/129745708/b47b2239-0e62-408c-9a60-ee8062a8aa8d)
-
+![image](https://github.com/BlagicaAleksoska/SI_2023_lab2_163022/assets/129745708/a2ceee0a-48a4-462c-aab0-c816c9f7ef81)
 
 ### Цикломатска комплексност
 
